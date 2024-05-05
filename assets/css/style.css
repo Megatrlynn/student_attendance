@@ -1,0 +1,23 @@
+#discover{
+    border-radius: 10px 10px 10px 10px;
+}
+
+#home, #home:hover{
+    border-radius: 10px 10px 10px 10px;
+}
+
+#corossal{
+    border-radius: 10px 10px 10px 10px;
+}
+
+#parag{
+    color: white;
+}
+#sub-menu1{
+    margin-left: -850px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    color: red;
+    text-align: center;
+    width: 1000px;
+}
